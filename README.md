@@ -2,7 +2,7 @@
 
 This project forecasts hotel occupancy and revenue using simulated data for a 2-year period. It demonstrates how business analysts can use forecasting methods to make informed staffing and pricing decisions.
 
-## 📊 Features
+Features
 - Forecasting methods:
   - Linear Regression
   - Exponential Smoothing
@@ -10,12 +10,12 @@ This project forecasts hotel occupancy and revenue using simulated data for a 2-
 - Interactive Excel dashboard for visualization
 - Python notebook for exploratory analysis and forecasting
 
-## 🧰 Tools Used
+Tools Used
 - **Python:** pandas, numpy, matplotlib, statsmodels, scikit-learn
 - **Excel:** Pivot Tables, Line Chart
 - **Jupyter Notebook**
 
-## 📁 File Structure
+File Structure
 ```
 hotel-forecast-dashboard/
 ├── data/
@@ -27,8 +27,8 @@ hotel-forecast-dashboard/
 └── README.md
 ```
 
-## 📈 Use Case
+Use Case
 Designed for hotel managers and business analysts to predict occupancy trends and optimize operational decisions.
 
-## 👨‍💻 Author
+Author
 Ronak Patel – Business Analyst & MSBA Candidate at Cornell University
