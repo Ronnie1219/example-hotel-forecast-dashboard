@@ -1,4 +1,3 @@
-# Hotel Booking & Revenue Forecasting Dashboard
 
 This project forecasts hotel occupancy and revenue using simulated data for a 2-year period. It demonstrates how business analysts can use forecasting methods to make informed staffing and pricing decisions.
 
